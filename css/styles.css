@@ -1,0 +1,13 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #212121;
+}
+
+.contacts {
+  color: #757575;
+}
+
+.contacts:hover,
+.contacts:focus {
+  color: #2196f3;
+}
